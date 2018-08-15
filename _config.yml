@@ -1,11 +1,11 @@
 # Site settings
-author: Achsah Abraham
-title: 
+author: Achsah M.
+title: Achsah Everyday
 header-img: img/home-bg.png
 email: achsahmp@gmail.com
-copyright_name: Achsah Abraham
+copyright_name: Achsah M.
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Achsah Codes
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  achsahmerina
